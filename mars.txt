@@ -1,6 +1,6 @@
 Spaceship
 Star Trek
-Captain Picard
+Picard
 DS9
 Enterprise
 Voyager
