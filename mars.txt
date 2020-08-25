@@ -4,3 +4,5 @@ Captain Picard
 DS9
 Enterprise
 Voyager
+Exploration
+Starfleet
